@@ -1,0 +1,24 @@
+.albums__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.albums__headerIcon {
+    color: gray;
+    background-color: #f4f4f4;
+    margin: 10px;
+    padding: 10px;
+}
+
+.albumRow__list {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.albumRow__list::-webkit-scrollbar {
+    display: none;
+}

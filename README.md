@@ -1,3 +1,11 @@
+# Purpose of this Repository
+
+This is Web-App is designed to run on my wedding. 
+My wedding takes place in midst of a forest with no mobile internet.
+So I want to set up a WiFi Router with a NAS running a web application where my guests can share pictures of the wedding.
+
+I am doing this all alone, and this is my first frontend project, so be kind :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

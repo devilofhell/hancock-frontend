@@ -1,0 +1,7 @@
+.photoPoster__thumbnail {
+    min-height: 110px;
+    max-height: 150px;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    object-fit: cover;
+}

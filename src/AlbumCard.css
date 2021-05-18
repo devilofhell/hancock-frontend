@@ -1,0 +1,11 @@
+.albumCard {
+    width: 220px;
+    margin: 15px;
+}
+
+.albumCard__thumbnail {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    object-fit: cover;
+}

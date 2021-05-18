@@ -1,3 +1,4 @@
-.app__albums {
+.sidebar {
     border: solid black 1px;
+    flex: 0.2;
 }
